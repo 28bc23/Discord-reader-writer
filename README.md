@@ -1,4 +1,4 @@
-# Discord Kript weapper
+# Discord Kript weapper (TEMP NAME)
 
 ## Installation
 - install jq from https://jqlang.org/download/ if you don't have it
